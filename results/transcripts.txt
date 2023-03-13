@@ -1,0 +1,90 @@
+Student S1000 transcript: 
+
+-----------------------------------------------------------------
+
+S1000      George Williams
+
+04799E     Computer Security                         79.8 C         
+
+04801E     DSA4E                                     35.0 E         
+
+04804E     Ethical Hacking                           79.8 C         
+
+04808E     Programming and Problem Solving II        79.8 C         
+
+04811E     Data Inference and Applied ML             79.8 C         
+
+-----------------------------------------------------------------
+
+Student S1002 transcript: 
+
+-----------------------------------------------------------------
+
+S1002      Elaine Hazimana
+
+04799E     Computer Security                         87.4 B         
+
+04801E     DSA4E                                     87.4 B         
+
+04804E     Ethical Hacking                           87.4 B         
+
+04808E     Programming and Problem Solving II        87.4 B         
+
+04811E     Data Inference and Applied ML             87.4 B         
+
+-----------------------------------------------------------------
+
+Student S1003 transcript: 
+
+-----------------------------------------------------------------
+
+S1003      Peter Pathos
+
+04799E     Computer Security                         83.2 B         
+
+04801E     DSA4E                                     83.2 B         
+
+04804E     Ethical Hacking                           32.2 E         
+
+04808E     Programming and Problem Solving II        83.2 B         
+
+04811E     Data Inference and Applied ML             83.2 B         
+
+-----------------------------------------------------------------
+
+Student S1005 transcript: 
+
+-----------------------------------------------------------------
+
+S1005      Celestine Taylor
+
+04799E     Computer Security                         88.4 B         
+
+04801E     DSA4E                                     72.6 C         
+
+04804E     Ethical Hacking                           88.4 B         
+
+04808E     Programming and Problem Solving II        88.4 B         
+
+04811E     Data Inference and Applied ML             88.4 B         
+
+-----------------------------------------------------------------
+
+Student S1006 transcript: 
+
+-----------------------------------------------------------------
+
+S1006      Khalil Abdi
+
+04799E     Computer Security                         83.0 B         
+
+04801E     DSA4E                                     83.0 B         
+
+04804E     Ethical Hacking                           68.4 D         
+
+04808E     Programming and Problem Solving II        83.0 B         
+
+04811E     Data Inference and Applied ML             83.0 B         
+
+-----------------------------------------------------------------
+

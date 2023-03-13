@@ -1,0 +1,18 @@
+Student S1000 transcript: 
+
+-----------------------------------------------------------------
+
+S1000      George Williams
+
+04799E     Computer Security                         79.8 C         
+
+04801E     DSA4E                                     35.0 E         
+
+04804E     Ethical Hacking                           79.8 C         
+
+04808E     Programming and Problem Solving II        79.8 C         
+
+04811E     Data Inference and Applied ML             79.8 C         
+
+-----------------------------------------------------------------
+

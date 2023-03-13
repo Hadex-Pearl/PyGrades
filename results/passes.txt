@@ -1,0 +1,5 @@
+List of students who passed all registered courses
+
+S1002    Elaine Hazimana
+S1005    Celestine Taylor
+S1006    Khalil Abdi

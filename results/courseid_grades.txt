@@ -1,0 +1,15 @@
+Student Grades for 04808E: Programming and Problem Solving II 
+
+Rollnum    Name                       Avg Grade       
+-----------------------------------------------------------------
+
+S1000      George Williams            79.80 C         
+
+S1002      Elaine Hazimana            87.40 B         
+
+S1003      Peter Pathos               83.20 B         
+
+S1005      Celestine Taylor           88.40 B         
+
+S1006      Khalil Abdi                83.00 B         
+

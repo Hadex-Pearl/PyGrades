@@ -1,0 +1,10 @@
+04801E
+DSA4E
+Fall 2021
+George Okeyo
+Fikita III, Nikita III, Vikita III
+S1000:George Williams:20:45:40:20:50
+S1002:Elaine Hazimana:85:86:78:99:89
+S1003:Peter Pathos:70:90:70:95:91
+S1005:Celestine Taylor:60:95:88:20:100
+S1006:Khalil Abdi:80:82:75:92:86
