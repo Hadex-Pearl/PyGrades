@@ -4,7 +4,7 @@ PyGrades is a repository that demonstrates the implementation of an Object-Orien
 
 A grade book serves as a vital tool for recording and managing students' scores across all the courses they have registered for. Our grade book application goes beyond basic functionality and provides additional features to support efficient grade tracking and analysis.
 
-With PyGradeBook, you can expect the following key functionalities:
+Key functionalities:
 
     Score Tracking: The grade book maintains a meticulous record of scores for each student in all their registered courses. It captures the details of individual assignments and calculates the overall average marks for each student.
 
