@@ -1,15 +1,20 @@
-# Object-Oriented-Python-programming
+# PyGrades
 
-Context: The goal is to create a grade book application using python programming. A grade book
-maintains a record of scores that students have in all courses that they have
-registered for. In addition, a grade book provides a list of all students who have
-passed as well as a list of students who have course referrals/fails. A student is
-considered to have failed if they have less than 60 in any course they have
-undertaken. Each student undertakes five courses. For each course, each student
-does five assignments as seen in the class Student. Each student object can
-generate the student’s average mark using the method percentage_gen. See
-Student class. Each course maintains the following details: instructor, TAs,
-semester, course name, and class list. The class list maintains a list of Student
-objects – i.e., the students who have registered for the course. This is shown in the
-Course class.
+PyGrades is a repository that demonstrates the implementation of an Object-Oriented Python gradebook project. This repository serves as a foundational resource for learning OOP concepts and applying them to create a gradebook application in Python.
+
+A grade book serves as a vital tool for recording and managing students' scores across all the courses they have registered for. Our grade book application goes beyond basic functionality and provides additional features to support efficient grade tracking and analysis.
+
+With PyGradeBook, you can expect the following key functionalities:
+
+    Score Tracking: The grade book maintains a meticulous record of scores for each student in all their registered courses. It captures the details of individual assignments and calculates the overall average marks for each student.
+
+    Pass/Fail Status: Our grade book goes beyond mere score tracking. It determines whether a student has passed or failed a course based on a predefined threshold (60 marks). Students who fall below this threshold are flagged as failed or referred.
+
+    Student Management: The grade book provides a comprehensive list of students who have successfully passed their courses, as well as those who require referral or have failed. This allows for easy identification and monitoring of students' progress.
+
+    Course Details: Each course is associated with essential information such as the instructor's name, teaching assistants, semester, course name, and the class list. The class list maintains a collection of Student objects, representing the students registered for the course.
+
+    Student Object Functionality: The Student class in our grade book application offers additional functionalities. Each student object can generate the student's average mark using the percentage_gen method. This allows for efficient calculation and presentation of individual student performance.
+
+    Course Management: The Course class provides a structured representation of each course, encompassing its unique details. It enables effective organization and tracking of students' enrollment, facilitating seamless course management.
 
